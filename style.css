@@ -1,0 +1,15 @@
+*{
+    align-items: center;
+}
+
+body{
+
+    background: linear-gradient(135deg, #cacaca, #00f7ff);
+}
+.sec2 h2{
+    color:bisque;
+}
+.img{
+    width: 200px;
+    height: 120px;
+}
